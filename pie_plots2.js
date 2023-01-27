@@ -1,8 +1,8 @@
-function buildMetadata(states) {
+function buildMetadata(pie_data_url) {
     d3.json("https://raw.githubusercontent.com/RothK215/Project-3-State-Farms/main/json/pie_data_url.json").then((data) => {
         let metadata = data.metadata;
 
-        let resultArray = metadata.filter(sampleObj => sampleObj.id == states);
+        let resultArray = metadata.filter(sampleObj => sampleObj.id == pie_data_url);
         let result = resultArray[0];
 
         let PANEL = d3.select("#state-metadata");
@@ -15,10 +15,10 @@ function buildMetadata(states) {
     });
 }
 
-function buildCharts(states) {
+function buildCharts(pie_data_url) {
     d3.json("https://raw.githubusercontent.com/RothK215/Project-3-State-Farms/main/json/pie_data_url.json").then((data) => {
-    let stateData = data.metadata
-    let resultsArray = stateData.filter(sampleObj => sampleObj.id == states);
+    let stateData = data.metadata;
+    let resultsArray = stateData.filter(sampleObj => sampleObj.state == pie_data_url);
     let result = resultsArray[0];
 
     let state_name = result.state;
@@ -47,7 +47,7 @@ function buildCharts(states) {
 function init() {
     let selector = d3.select("#selDataset");
     d3.json("https://raw.githubusercontent.com/RothK215/Project-3-State-Farms/main/json/pie_data_url.json").then((data) => {
-    let stateNames = data.metadata.state;
+    let stateNames = data.names;
 
     for (let i = 0; i<stateNames; i++) {
         selector
