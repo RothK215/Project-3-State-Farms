@@ -1,6 +1,6 @@
 // A function to determine the marker size based on the population
-function markerSize(population) {
-  return Math.sqrt(population) * 50;
+function markerSize(data) {
+  return Math.sqrt(data) * 50;
 }
 
 // An array that contains all the information needed to create city and state markers
@@ -33,7 +33,7 @@ var state = [
   },
   {
   state_name: "Arizona",
-  coord: [32.318231, -86.902298], 
+  coord: [34.048927, -111.093735], 
   acre_info: {
      acres_farmed: 335673,
      planted: 15322271.49,
@@ -137,7 +137,7 @@ var state = [
   },
   {
   state_name: "Idaho",
-  coord: [19.898682, -155.665857], 
+  coord: [44.068203, -114.742043], 
   acre_info: {
      acres_farmed: 2123909,
      planted: 8676732.05,
@@ -150,7 +150,7 @@ var state = [
   },
   {
   state_name: "Illinois",
-  coord: [19.898682, -155.665857], 
+  coord: [40.000000, -89.000000], 
   acre_info: {
      acres_farmed: 21965155,
      planted: 24159267.61,
@@ -163,7 +163,7 @@ var state = [
   },
   {
   state_name: "Indiana",
-  coord: [19.898682, -155.665857], 
+  coord: [40.273502, -86.126976], 
   acre_info: {
      acres_farmed: 11359770,
      planted: 13007231.72,
@@ -228,7 +228,7 @@ var state = [
   },
   {
   state_name: "Maine",
-  coord: [45.253783, -69.445469], 
+  coord: [45.367584, -68.972168], 
   acre_info: {
      acres_farmed: 65145,
      planted: 307639.33,
@@ -241,7 +241,7 @@ var state = [
   },
   {
   state_name: "Maryland",
-  coord: [45.253783, -69.445469], 
+  coord: [39.045753, -76.641273], 
   acre_info: {
      acres_farmed: 1085739,
      planted: 1636528.82,
@@ -254,7 +254,7 @@ var state = [
   },
   {
   state_name: "Massachusetts",
-  coord: [45.253783, -69.445469], 
+  coord: [42.407211, -71.382439], 
   acre_info: {
      acres_farmed: 14973,
      planted: 110981.15,
@@ -306,7 +306,7 @@ var state = [
   },
   {
   state_name: "Missouri",
-  coord: [32.354668, -89.398528], 
+  coord: [38.573936, -92.603760], 
   acre_info: {
      acres_farmed: 10399930,
      planted: 20173496.98,
@@ -332,7 +332,7 @@ var state = [
   },
   {
   state_name: "Nebraska",
-  coord: [46.879682, -110.362566], 
+  coord: [41.500000, -100.000000], 
   acre_info: {
      acres_farmed: 16600770,
      planted: 42508314.56,
@@ -345,7 +345,7 @@ var state = [
   },
   {
   state_name: "Nevada",
-  coord: [46.879682, -110.362566], 
+  coord: [39.876019, -117.224121], 
   acre_info: {
      acres_farmed: 24190,
      planted: 3618566.23,
@@ -358,7 +358,7 @@ var state = [
   },
   {
   state_name: "New Hampshire",
-  coord: [46.879682, -110.362566], 
+  coord: [44.000000, -71.500000], 
   acre_info: {
      acres_farmed: 12586,
      planted: 70641.94,
@@ -410,7 +410,7 @@ var state = [
   },
   {
   state_name: "North Carolina",
-  coord: [43.299428, -74.217933], 
+  coord: [35.782169, -80.793457], 
   acre_info: {
      acres_farmed: 3404015,
      planted: 5025826.79,
@@ -423,7 +423,7 @@ var state = [
   },
   {
   state_name: "North Dakota",
-  coord: [43.299428, -74.217933], 
+  coord: [47.650589, -100.437012], 
   acre_info: {
      acres_farmed: 15855697,
      planted: 34557755.68,
@@ -566,7 +566,7 @@ var state = [
   },
   {
   state_name: "Utah",
-  coord: [39.32098, -111.093731], 
+  coord: [39.419220, -111.950684], 
   acre_info: {
      acres_farmed: 194762,
      planted: 6992208.16,
@@ -579,7 +579,7 @@ var state = [
   },
   {
   state_name: "Vermont",
-  coord: [39.32098, -111.093731], 
+  coord: [44.000000, -72.699997], 
   acre_info: {
      acres_farmed: 92271,
      planted: 979504.11,
@@ -592,7 +592,7 @@ var state = [
   },
   {
   state_name: "Virgin Islands of the U.S.",
-  coord: [39.32098, -111.093731], 
+  coord: [18.3358, 64.8963], 
   acre_info: {
      acres_farmed: 3,
      planted: 2327.8,
@@ -644,7 +644,7 @@ var state = [
   },
   {
   state_name: "Wisconsin",
-  coord: [38.597626, -80.454903], 
+  coord: [44.500000, -89.500000], 
   acre_info: {
      acres_farmed: 6371965,
      planted: 9479194.15,
@@ -678,6 +678,7 @@ var preventedMarkers= [];
 var not_plantedMarkers= [];
 var farm_countMarkers= [];
 
+
 // Loop through locations, and create the city and state markers.
 for (var i = 0; i < state.length; i++) {
   // Setting the marker radius for the state by passing population into the markerSize function
@@ -688,7 +689,10 @@ for (var i = 0; i < state.length; i++) {
       color: "black",
       fillColor: "green",
       radius: markerSize(state[i].acre_info.planted)
-    })
+    }),
+    L.marker(state[i].coord).bindPopup("<h3>" + state[i].acre_info.planted + "</h3>" + 
+                                       "<hr>" +
+                                       "<h4>" + state[i].acre_info.farm_count + "</h4>")
   );
 
   volunteerMarkers.push(
@@ -698,7 +702,10 @@ for (var i = 0; i < state.length; i++) {
       color: "black",
       fillColor: "yellow",
       radius: markerSize(state[i].acre_info.volunteer)
-    })
+    }),
+    L.marker(state[i].coord).bindPopup("<h3>" + state[i].acre_info.volunteer + "</h3>" + 
+                                       "<hr>" +
+                                       "<h4>" + state[i].acre_info.farm_count + "</h4>")
   );
 
   failedMarkers.push(
@@ -706,9 +713,12 @@ for (var i = 0; i < state.length; i++) {
       stroke: false,
       fillOpacity: 0.35,
       color: "black",
-      fillColor: "#red",
+      fillColor: "red",
       radius: markerSize(state[i].acre_info.failed)
-    })
+    }),
+    L.marker(state[i].coord).bindPopup("<h3>" + state[i].acre_info.failed + "</h3>" + 
+                                       "<hr>" +
+                                       "<h4>" + state[i].acre_info.farm_count + "</h4>")
   );
 
   preventedMarkers.push(
@@ -718,7 +728,10 @@ for (var i = 0; i < state.length; i++) {
       color: "black",
       fillColor: "orange",
       radius: markerSize(state[i].acre_info.prevented)
-    })
+    }),
+    L.marker(state[i].coord).bindPopup("<h3>" + state[i].acre_info.prevented + "</h3>" + 
+                                       "<hr>" +
+                                       "<h4>" + state[i].acre_info.farm_count + "</h4>")
   );
 
   not_plantedMarkers.push(
@@ -728,18 +741,12 @@ for (var i = 0; i < state.length; i++) {
       color: "black",
       fillColor: "black",
       radius: markerSize(state[i].acre_info.not_planted)
-    })
+    }),
+    L.marker(state[i].coord).bindPopup("<h3>" + state[i].acre_info.not_planted + "</h3>" + 
+                                       "<hr>" +
+                                       "<h4>" + state[i].acre_info.farm_count + "</h4>")
   );
 
-  farm_countMarkers.push(
-    L.circle(state[i].coord, {
-      stroke: false,
-      fillOpacity: 0.35,
-      color: "black",
-      fillColor: "blue",
-      radius: markerSize(state[i].acre_info.farm_count)
-    })
-  );
 
 }
 
@@ -752,13 +759,13 @@ var topo = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
 	attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
 });
 
-// Create two separate layer groups: one for the city markers and another for the state markers.
+
+// Create 6 separate layer groups: one for the city markers and another for the state markers.
 var planted = L.layerGroup(plantedMarkers);
 var volunteer = L.layerGroup(volunteerMarkers);
 var failed = L.layerGroup(failedMarkers);
 var prevented = L.layerGroup(preventedMarkers);
 var not_planted = L.layerGroup(not_plantedMarkers);
-var farm_count = L.layerGroup(farm_countMarkers);
 
 // Create a baseMaps object.
 var baseMaps = {
@@ -773,13 +780,12 @@ var overlayMaps = {
   "Failed Acres": failed,
   "Prevented Acres": prevented,
   "Unused Acres": not_planted,
-  "Farms": farm_count
 };
 
 // Define a map object.
 var myMap = L.map("map", {
   center: [43.299428, -74.217933],
-  zoom: .5,
+  zoom: 1,
   minZoom:5.3,
   layers: [street, planted]
 });
