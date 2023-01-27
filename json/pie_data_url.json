@@ -1,4 +1,5 @@
-{"metadata":[{
+[
+    {
     "state": "Alabama",
     "crop": {
         "BARLEY": 142.42,
@@ -622,4 +623,4 @@
         "SUGAR_BEETS": 28342.23,
         "WHEAT": 111955.82
     }}
-    ]}
+]
