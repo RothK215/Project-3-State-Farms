@@ -1,0 +1,87 @@
+/* Remove the default margin and padding from the body. */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+
+#map {
+  position: relative;
+  border: 1px solid black;
+  border-radius: 8px;
+  height: 500px;
+  /* or as desired */
+  width: 100%;
+  /* This means "100% of the width of its container", the .col-md-8 */
+}
+
+#pie {
+ 
+  position: relative;
+  border: 1px;
+  backgroundColor:"#808080",
+  border-radius: 8px;
+  height: 500px;
+  /* or as desired */
+  width: 100%;
+  /* This means "100% of the width of its container", the .col-md-8 */
+}
+
+.Title {
+  padding: 8px;
+  text-align: center;
+  background: #008000;
+  color: white;
+  font-size: 20px;
+}
+
+.Top {
+  padding: 20px;
+  text-align: center;
+  color: #008000;
+  font-size: 20px;
+
+}
+
+.well {
+  padding: 10px;
+  text-align: center;
+  height: 110px;
+  width: 100%;
+  background: #008000;
+  color: rgb(19, 18, 18);
+  font-size: 20px;
+
+}
+
+.panel-title {
+  padding: 0px;
+  text-align: center;
+  height: 50px;
+  width: 100%;
+  background: #008000;
+  color: white;
+  font-size: 20px;
+
+}
+
+.panel panel-primary {
+  padding: 10px;
+  text-align: center;
+  height: 50px;
+  width: 100%;
+  background: #008000;
+  color: #008000;
+  font-size: 20px;
+
+}
+
+.panel-body {
+  padding: 10px;
+  text-align: center;
+  height: 400px;
+  width: 100%;
+  background: #008000;
+  color: #008000;
+  font-size: 20px;
+}
