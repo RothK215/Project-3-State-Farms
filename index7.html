@@ -25,9 +25,15 @@
 
       <div class="container">
         <div class="row">
+          <div class="Top">
           <div class="col-md-12 jumbotron text-center">
-            <h1>Northeast Farm Acres in 2022</h1>
+            <h1>Planted Acres in Northeast States</h1>
+            <p></p>
+            <p></p>
+            <h4>(Farm Service Agency crop acreage data for 2022)</h4>
+            <p></p>
             <p>Use the interactive charts below to explore the dataset</p>
+          </div>
           </div>
         </div>
         <div class="row">
@@ -36,6 +42,7 @@
               <h4>State Selection:</h4>
               <select id="selDataset">
                 <option value="Connecticut">Connecticut</option>
+                <option value="Delaware">Delaware</option>
                 <option value="Maine">Maine</option>
                 <option value="Massachusetts">Massachusetts</option>
                 <option value="New_Hampshire">New_Hampshire</option>
@@ -46,33 +53,38 @@
                 <option value="Vermont">Vermont</option>
             </select>
             </div>
-            <div class="panel panel-primary">
-              <div class="panel-heading">
-                <h3 class="panel-title">State Acres Info</h3>
-              </div>
-              <div id="sample-metadata" class="panel-body"></div>
+            <div class="panel">
+            <p>Source: Farm Service Agency</p>
+            <p>https://www.fsa.usda.gov/news-room/efoia/electronic-reading-room/frequently-requested-information/crop-acreage-data/index</p>
             </div>
           </div>
-          <div class="col-md-8">
+          <div class="col-md-10">
+          <div class="Title">
+          <h3>Planted Acres by Crop for the Selected Northeast State</h3>
+          <div class="col-md-12" style="border: 1px solid whitesmoke ">
             <div id="pie"></div>
-            <script src="PieChart/plots.js"></script> 
-          </div>
+          
           
         </div>
-        <div class="row">
-          <div class:"col-md-4" style="border: 1px solid whitesmoke ">
-            <h4>Farmed Acres in 2022 for States in the Northeast (Relative comparison of Total Acres Farmed)</h4>
         
-          <div class="col-md-12" style="border: 1px solid whitesmoke ">
+        <div class="row">
+                    
+          <h3>Planted Acres for States in the Northeast</h3> 
+          <h4></p>(Bubble Size = state relative comparison of total planted acres among northeast states)</h4>
+          <div class="col-md-14" style="border: 1px solid whitesmoke ">
             <div id="map"></div>
-            <script src="Project3_Map.js"></script> 
           </div>
+          </div>
+        </div>
+     </div>
       </div>
+    </div>
     
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="PieChart/data.js"></script>
-     
+    <script src="Project3_Map.js"></script> 
+    <script src="PieChart/plots.js"></script>
       
     </body>
     
