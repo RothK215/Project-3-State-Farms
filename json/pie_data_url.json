@@ -1,4 +1,5 @@
-{"metadata":[
+{
+ "metadata":[
     {
     "state": "Alabama",
     "crop": {
@@ -336,7 +337,7 @@
         "WHEAT": 12753.58
     }},
     {
-    "state": "New_Hampshire",
+    "state": "New Hampshire",
     "crop": {
         "BARLEY": 172.5,
         "CORN": 12031.25,
@@ -348,7 +349,7 @@
         "WHEAT": 64.59
     }},
     {
-    "state": "New_Jersey",
+    "state": "New Jersey",
     "crop": {
         "BARLEY": 944.55,
         "CORN": 68229.21,
@@ -360,7 +361,7 @@
         "WHEAT": 17926.47
     }},
     {
-    "state": "New_Mexico",
+    "state": "New Mexico",
     "crop": {
         "BARLEY": 10203.76,
         "CORN": 99097.66,
@@ -372,7 +373,7 @@
         "WHEAT": 513282.87
     }},
     {
-    "state": "New_York",
+    "state": "New York",
     "crop": {
         "BARLEY": 4141.79,
         "CORN": 993959.6,
@@ -384,7 +385,7 @@
         "WHEAT": 78286.19
     }},
     {
-    "state": "North_Carolina",
+    "state": "North Carolina",
     "crop": {
         "BARLEY": 12920.15,
         "CORN": 806100.81,
@@ -396,7 +397,7 @@
         "WHEAT": 428694.17
     }},
     {
-    "state": "North_Dakota",
+    "state": "North Dakota",
     "crop": {
         "BARLEY": 702610.55,
         "CORN": 2907160.57,
@@ -456,7 +457,7 @@
         "WHEAT": 131594.06
     }},
     {
-    "state": "Puerto_Rico",
+    "state": "Puerto Rico",
     "crop": {
         "BARLEY": 0,
         "CORN": 2.91,
@@ -468,7 +469,7 @@
         "WHEAT": 0
     }},
     {
-    "state": "Rhode_Island",
+    "state": "Rhode Island",
     "crop": {
         "BARLEY": 0,
         "CORN": 1651.34,
@@ -480,7 +481,7 @@
         "WHEAT": 7.45
     }},
     {
-    "state": "South_Carolina",
+    "state": "South Carolina",
     "crop": {
         "BARLEY": 524.51,
         "CORN": 298694.21,
@@ -492,7 +493,7 @@
         "WHEAT": 98954.09
     }},
     {
-    "state": "South_Dakota",
+    "state": "South Dakota",
     "crop": {
         "BARLEY": 27464.69,
         "CORN": 5650737.95,
@@ -552,7 +553,7 @@
         "WHEAT": 860.99
     }},
     {
-    "state": "Virgin_Islands_of_the_US",
+    "state": "Virgin Islands of the US",
     "crop": {
         "BARLEY": 0,
         "CORN": 0.07,
@@ -588,7 +589,7 @@
         "WHEAT": 2237144.22
     }},
     {
-    "state": "West_Virginia",
+    "state": "West Virginia",
     "crop": {
         "BARLEY": 618.35,
         "CORN": 39109.77,
@@ -622,5 +623,10 @@
         "SOYBEANS":811.46,
         "SUGAR_BEETS": 28342.23,
         "WHEAT": 111955.82
-    }}
-]}
+    }}],
+
+    "names": ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Guam", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", 
+    "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont",
+    "Virgin Islands of the U.S.", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"]
+}
+
