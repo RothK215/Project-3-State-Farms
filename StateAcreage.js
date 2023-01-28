@@ -1,4 +1,4 @@
-let data = {
+let dataA = {
 
 "states":{
    "Alabama": {

@@ -19,7 +19,7 @@ body {
  
   position: relative;
   border: 1px;
-  backgroundColor:"#808080",
+  background-color:"#808080";
   border-radius: 8px;
   height: 500px;
   /* or as desired */
@@ -71,7 +71,6 @@ body {
   height: 50px;
   width: 100%;
   background: #008000;
-  color: #008000;
   font-size: 20px;
 
 }
@@ -82,6 +81,5 @@ body {
   height: 400px;
   width: 100%;
   background: #008000;
-  color: #008000;
   font-size: 20px;
 }
