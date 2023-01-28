@@ -1,0 +1,2969 @@
+[{"states":{
+
+   "Alabama": [
+      {
+         "crop": "BARLEY",
+         "planted": 142.42,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 142.42
+      },
+      {
+         "crop": "CORN",
+         "planted": 267702.05,
+         "volunteer": 0,
+         "failed": 19,
+         "prevented": 590.52,
+         "not_planted": 0,
+         "planted_and_failed": 267721.05
+      },
+      {
+         "crop": "OATS",
+         "planted": 9281.02,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 9281.02
+      },
+      {
+         "crop": "RICE",
+         "planted": 16,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 16
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 4437.43,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 32.48,
+         "not_planted": 0,
+         "planted_and_failed": 4437.43
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 339723.05,
+         "volunteer": 0,
+         "failed": 419.94,
+         "prevented": 1398.01,
+         "not_planted": 0,
+         "planted_and_failed": 340142.99
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 109384.99,
+         "volunteer": 0,
+         "failed": 898.74,
+         "prevented": 2375.17,
+         "not_planted": 0,
+         "planted_and_failed": 110283.73
+      }
+   ],
+   "Alaska": [
+      {
+         "crop": "BARLEY",
+         "planted": 5116.11,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 1661.72,
+         "not_planted": 0,
+         "planted_and_failed": 5116.11
+      },
+      {
+         "crop": "OATS",
+         "planted": 964.51,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 77.68,
+         "not_planted": 0,
+         "planted_and_failed": 964.51
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 97.36,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 269.72,
+         "not_planted": 0,
+         "planted_and_failed": 97.36
+      }
+   ],
+   "Arizona": [
+      {
+         "crop": "BARLEY",
+         "planted": 14381.82,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 835.76,
+         "not_planted": 0,
+         "planted_and_failed": 14381.82
+      },
+      {
+         "crop": "CORN",
+         "planted": 77956.54,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 13049.67,
+         "not_planted": 0,
+         "planted_and_failed": 77956.54
+      },
+      {
+         "crop": "OATS",
+         "planted": 30498.4,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 30498.4
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 21312.96,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 21312.96
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 8.29,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 8.29
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 764.6,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 764.6
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 96526.18,
+         "volunteer": 0,
+         "failed": 184.94,
+         "prevented": 1566.67,
+         "not_planted": 0,
+         "planted_and_failed": 96711.12
+      }
+   ],
+   "Arkansas": [
+      {
+         "crop": "CORN",
+         "planted": 695366.78,
+         "volunteer": 0,
+         "failed": 2573.8,
+         "prevented": 274248.89,
+         "not_planted": 0,
+         "planted_and_failed": 697940.58
+      },
+      {
+         "crop": "OATS",
+         "planted": 5657.62,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 5657.62
+      },
+      {
+         "crop": "RICE",
+         "planted": 1082494.64,
+         "volunteer": 17.03,
+         "failed": 16627.49,
+         "prevented": 264668.42,
+         "not_planted": 0,
+         "planted_and_failed": 1099122.13
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 9062.32,
+         "volunteer": 0,
+         "failed": 253.98,
+         "prevented": 1619.12,
+         "not_planted": 0,
+         "planted_and_failed": 9316.3
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 3155356.49,
+         "volunteer": 23.71,
+         "failed": 5430.96,
+         "prevented": 34547.51,
+         "not_planted": 0,
+         "planted_and_failed": 3160787.45
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 185006.12,
+         "volunteer": 0,
+         "failed": 982.89,
+         "prevented": 7241.96,
+         "not_planted": 0,
+         "planted_and_failed": 185989.01
+      }
+   ],
+   "California": [
+      {
+         "crop": "BARLEY",
+         "planted": 34822.9,
+         "volunteer": 534.6,
+         "failed": 0,
+         "prevented": 3971.86,
+         "not_planted": 0,
+         "planted_and_failed": 34822.9
+      },
+      {
+         "crop": "CORN",
+         "planted": 305357.08,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 5909.77,
+         "not_planted": 0,
+         "planted_and_failed": 305357.08
+      },
+      {
+         "crop": "OATS",
+         "planted": 71126.42,
+         "volunteer": 734.21,
+         "failed": 0,
+         "prevented": 24.49,
+         "not_planted": 0,
+         "planted_and_failed": 71126.42
+      },
+      {
+         "crop": "RICE",
+         "planted": 242982.79,
+         "volunteer": 0,
+         "failed": 68.04,
+         "prevented": 301500.94,
+         "not_planted": 0,
+         "planted_and_failed": 243050.83
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 19621.12,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 19621.12
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 17008.89,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 17008.89
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 360799.5,
+         "volunteer": 1578.83,
+         "failed": 156.59,
+         "prevented": 6332.21,
+         "not_planted": 0,
+         "planted_and_failed": 360956.09
+      }
+   ],
+   "Colorado": [
+      {
+         "crop": "BARLEY",
+         "planted": 51290.62,
+         "volunteer": 0,
+         "failed": 2501.02,
+         "prevented": 6314.6,
+         "not_planted": 0,
+         "planted_and_failed": 53791.64
+      },
+      {
+         "crop": "CORN",
+         "planted": 1315267.35,
+         "volunteer": 0,
+         "failed": 4657.85,
+         "prevented": 192647.22,
+         "not_planted": 0,
+         "planted_and_failed": 1319925.2
+      },
+      {
+         "crop": "OATS",
+         "planted": 40155.99,
+         "volunteer": 0,
+         "failed": 2977.59,
+         "prevented": 490.19,
+         "not_planted": 0,
+         "planted_and_failed": 43133.58
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 451915.4,
+         "volunteer": 180.63,
+         "failed": 774.64,
+         "prevented": 57469.61,
+         "not_planted": 0,
+         "planted_and_failed": 452690.04
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 10895.81,
+         "volunteer": 0,
+         "failed": 335.65,
+         "prevented": 233.67,
+         "not_planted": 0,
+         "planted_and_failed": 11231.46
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 21256.8,
+         "volunteer": 0,
+         "failed": 2045.05,
+         "prevented": 613.89,
+         "not_planted": 0,
+         "planted_and_failed": 23301.85
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 1631408.24,
+         "volunteer": 2362.56,
+         "failed": 410719.56,
+         "prevented": 5001.17,
+         "not_planted": 0,
+         "planted_and_failed": 2042127.8
+      }
+   ],
+   "Connecticut": [
+      {
+         "crop": "BARLEY",
+         "planted": 125.44,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 125.44
+      },
+      {
+         "crop": "CORN",
+         "planted": 23344.58,
+         "volunteer": 0,
+         "failed": 50.5,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 23395.08
+      },
+      {
+         "crop": "OATS",
+         "planted": 60.85,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 60.85
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 15.01,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 15.01
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 310.74,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 310.74
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 15.95,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 15.95
+      }
+   ],
+   "Delaware": [
+      {
+         "crop": "BARLEY",
+         "planted": 12605.86,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 12605.86
+      },
+      {
+         "crop": "CORN",
+         "planted": 166818.49,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 166818.49
+      },
+      {
+         "crop": "OATS",
+         "planted": 101.05,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 101.05
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 3083.02,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 3083.02
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 157797.46,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 157797.46
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 44554.29,
+         "volunteer": 0,
+         "failed": 384.2,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 44938.49
+      }
+   ],
+   "Florida": [
+      {
+         "crop": "BARLEY",
+         "planted": 148.42,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 148.42
+      },
+      {
+         "crop": "CORN",
+         "planted": 62960.11,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 62960.11
+      },
+      {
+         "crop": "OATS",
+         "planted": 9621.78,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 9621.78
+      },
+      {
+         "crop": "RICE",
+         "planted": 19319.24,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 19319.24
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 1640.3,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 1640.3
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 21784.28,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 21784.28
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 2295.69,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2295.69
+      }
+   ],
+   "Georgia": [
+      {
+         "crop": "BARLEY",
+         "planted": 77,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 77
+      },
+      {
+         "crop": "CORN",
+         "planted": 416972.64,
+         "volunteer": 0,
+         "failed": 89.5,
+         "prevented": 201.85,
+         "not_planted": 0,
+         "planted_and_failed": 417062.14
+      },
+      {
+         "crop": "OATS",
+         "planted": 35244.29,
+         "volunteer": 94.85,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 35244.29
+      },
+      {
+         "crop": "RICE",
+         "planted": 287.44,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 287.44
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 22626.37,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 91.37,
+         "not_planted": 0,
+         "planted_and_failed": 22626.37
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 158149.39,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 403.63,
+         "not_planted": 0,
+         "planted_and_failed": 158149.39
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 112618.84,
+         "volunteer": 0,
+         "failed": 4.6,
+         "prevented": 1279.29,
+         "not_planted": 0,
+         "planted_and_failed": 112623.44
+      }
+   ],
+   "Guam": [
+      {
+         "crop": "CORN",
+         "planted": 0.82,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 0.82
+      }
+   ],
+   "Idaho": [
+      {
+         "crop": "BARLEY",
+         "planted": 538179.18,
+         "volunteer": 117.88,
+         "failed": 520.01,
+         "prevented": 11059.5,
+         "not_planted": 0,
+         "planted_and_failed": 538699.19
+      },
+      {
+         "crop": "CORN",
+         "planted": 301083.02,
+         "volunteer": 1.39,
+         "failed": 29.99,
+         "prevented": 15425.05,
+         "not_planted": 0,
+         "planted_and_failed": 301113.01
+      },
+      {
+         "crop": "OATS",
+         "planted": 27660.69,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 1238.77,
+         "not_planted": 0,
+         "planted_and_failed": 27660.69
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 256.95,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 256.95
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 170418.22,
+         "volunteer": 0,
+         "failed": 2153.31,
+         "prevented": 668.16,
+         "not_planted": 0,
+         "planted_and_failed": 172571.53
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 1087984.59,
+         "volunteer": 968.71,
+         "failed": 9826.07,
+         "prevented": 32897.02,
+         "not_planted": 0,
+         "planted_and_failed": 1097810.66
+      }
+   ],
+   "Illinois": [
+      {
+         "crop": "BARLEY",
+         "planted": 992.36,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 992.36
+      },
+      {
+         "crop": "CORN",
+         "planted": 10683424.49,
+         "volunteer": 2.74,
+         "failed": 2701.84,
+         "prevented": 14748.97,
+         "not_planted": 0,
+         "planted_and_failed": 10686126.33
+      },
+      {
+         "crop": "OATS",
+         "planted": 17862.51,
+         "volunteer": 0,
+         "failed": 31.28,
+         "prevented": 55.23,
+         "not_planted": 0,
+         "planted_and_failed": 17893.79
+      },
+      {
+         "crop": "RICE",
+         "planted": 1430.72,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 706.08,
+         "not_planted": 0,
+         "planted_and_failed": 1430.72
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 7030.9,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 7030.9
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 10712753.76,
+         "volunteer": 0.05,
+         "failed": 809.12,
+         "prevented": 6179.41,
+         "not_planted": 0,
+         "planted_and_failed": 10713562.88
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 547662.88,
+         "volunteer": 180.64,
+         "failed": 2684.89,
+         "prevented": 95133.93,
+         "not_planted": 0,
+         "planted_and_failed": 550347.77
+      }
+   ],
+   "Indiana": [
+      {
+         "crop": "BARLEY",
+         "planted": 1920.22,
+         "volunteer": 0,
+         "failed": 2.13,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 1922.35
+      },
+      {
+         "crop": "CORN",
+         "planted": 5293225.99,
+         "volunteer": 1.22,
+         "failed": 2866.19,
+         "prevented": 24609.73,
+         "not_planted": 0,
+         "planted_and_failed": 5296092.18
+      },
+      {
+         "crop": "OATS",
+         "planted": 3577.82,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 3577.82
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 9456.61,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 9456.61
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 5809595.17,
+         "volunteer": 0,
+         "failed": 685.3,
+         "prevented": 3859.53,
+         "not_planted": 0,
+         "planted_and_failed": 5810280.47
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 240817.67,
+         "volunteer": 0,
+         "failed": 4734.62,
+         "prevented": 21738.62,
+         "not_planted": 0,
+         "planted_and_failed": 245552.29
+      }
+   ],
+   "Iowa": [
+      {
+         "crop": "BARLEY",
+         "planted": 1971.7,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 1971.7
+      },
+      {
+         "crop": "CORN",
+         "planted": 12760378.92,
+         "volunteer": 0,
+         "failed": 885.14,
+         "prevented": 2268.01,
+         "not_planted": 0,
+         "planted_and_failed": 12761264.06
+      },
+      {
+         "crop": "OATS",
+         "planted": 82096.18,
+         "volunteer": 0,
+         "failed": 36.78,
+         "prevented": 69.73,
+         "not_planted": 0,
+         "planted_and_failed": 82132.96
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 4805.16,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 4805.16
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 10020538.75,
+         "volunteer": 0,
+         "failed": 1880.73,
+         "prevented": 2735.7,
+         "not_planted": 0,
+         "planted_and_failed": 10022419.48
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 18739.86,
+         "volunteer": 0,
+         "failed": 59.15,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 18799.01
+      }
+   ],
+   "Kansas": [
+      {
+         "crop": "BARLEY",
+         "planted": 12915.97,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 12915.97
+      },
+      {
+         "crop": "CORN",
+         "planted": 5439137.97,
+         "volunteer": 0,
+         "failed": 2050.53,
+         "prevented": 149413.47,
+         "not_planted": 0,
+         "planted_and_failed": 5441188.5
+      },
+      {
+         "crop": "OATS",
+         "planted": 97417.41,
+         "volunteer": 0,
+         "failed": 426.25,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 97843.66
+      },
+      {
+         "crop": "RICE",
+         "planted": 2.79,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2.79
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 2893287.94,
+         "volunteer": 0,
+         "failed": 749.7,
+         "prevented": 38461.37,
+         "not_planted": 0,
+         "planted_and_failed": 2894037.64
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 5007849.77,
+         "volunteer": 153.79,
+         "failed": 448.7,
+         "prevented": 7013.53,
+         "not_planted": 0,
+         "planted_and_failed": 5008298.47
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 7422355.6,
+         "volunteer": 603.13,
+         "failed": 64910.36,
+         "prevented": 13522.66,
+         "not_planted": 0,
+         "planted_and_failed": 7487265.96
+      }
+   ],
+   "Kentucky": [
+      {
+         "crop": "BARLEY",
+         "planted": 2210.1,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2210.1
+      },
+      {
+         "crop": "CORN",
+         "planted": 1391894.59,
+         "volunteer": 0,
+         "failed": 536.82,
+         "prevented": 7110.85,
+         "not_planted": 0,
+         "planted_and_failed": 1392431.41
+      },
+      {
+         "crop": "OATS",
+         "planted": 1438.19,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 1438.19
+      },
+      {
+         "crop": "RICE",
+         "planted": 0,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 99.24,
+         "not_planted": 0,
+         "planted_and_failed": 0
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 1460.43,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 1460.43
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 1913751.73,
+         "volunteer": 0,
+         "failed": 249.5,
+         "prevented": 1241.96,
+         "not_planted": 0,
+         "planted_and_failed": 1914001.23
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 444447.72,
+         "volunteer": 0,
+         "failed": 840.18,
+         "prevented": 7887.81,
+         "not_planted": 0,
+         "planted_and_failed": 445287.9
+      }
+   ],
+   "Louisiana": [
+      {
+         "crop": "CORN",
+         "planted": 438060.26,
+         "volunteer": 0,
+         "failed": 2651.71,
+         "prevented": 69177.17,
+         "not_planted": 0,
+         "planted_and_failed": 440711.97
+      },
+      {
+         "crop": "OATS",
+         "planted": 2104.02,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2104.02
+      },
+      {
+         "crop": "RICE",
+         "planted": 415726.32,
+         "volunteer": 32.38,
+         "failed": 5539.17,
+         "prevented": 7731.2,
+         "not_planted": 0,
+         "planted_and_failed": 421265.49
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 22040.32,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 22040.32
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 1248699.59,
+         "volunteer": 0,
+         "failed": 1109.35,
+         "prevented": 6955.11,
+         "not_planted": 0,
+         "planted_and_failed": 1249808.94
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 48655.45,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 1643.67,
+         "not_planted": 0,
+         "planted_and_failed": 48655.45
+      }
+   ],
+   "Maine": [
+      {
+         "crop": "BARLEY",
+         "planted": 9262.35,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 9262.35
+      },
+      {
+         "crop": "CORN",
+         "planted": 27904.99,
+         "volunteer": 0,
+         "failed": 2.5,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 27907.49
+      },
+      {
+         "crop": "OATS",
+         "planted": 25225.1,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 193.62,
+         "not_planted": 0,
+         "planted_and_failed": 25225.1
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 15,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 15
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 640.36,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 640.36
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 1656.94,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 1656.94
+      }
+   ],
+   "Maryland": [
+      {
+         "crop": "BARLEY",
+         "planted": 15721.03,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 15721.03
+      },
+      {
+         "crop": "CORN",
+         "planted": 407336.27,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 407336.27
+      },
+      {
+         "crop": "OATS",
+         "planted": 1929.91,
+         "volunteer": 0,
+         "failed": 15.49,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 1945.4
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 10099.67,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 10099.67
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 509126.09,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 335.91,
+         "not_planted": 0,
+         "planted_and_failed": 509126.09
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 142289.3,
+         "volunteer": 2.36,
+         "failed": 283.41,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 142572.71
+      }
+   ],
+   "Massachusetts": [
+      {
+         "crop": "BARLEY",
+         "planted": 121.11,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 121.11
+      },
+      {
+         "crop": "CORN",
+         "planted": 14414.96,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 14414.96
+      },
+      {
+         "crop": "OATS",
+         "planted": 269.14,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 269.14
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 24.07,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 24.07
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 458.84,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 458.84
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 57.79,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 57.79
+      }
+   ],
+   "Michigan": [
+      {
+         "crop": "BARLEY",
+         "planted": 2521.68,
+         "volunteer": 0,
+         "failed": 15,
+         "prevented": 7,
+         "not_planted": 0,
+         "planted_and_failed": 2536.68
+      },
+      {
+         "crop": "CORN",
+         "planted": 2250696.58,
+         "volunteer": 0,
+         "failed": 62.16,
+         "prevented": 17944.47,
+         "not_planted": 0,
+         "planted_and_failed": 2250758.74
+      },
+      {
+         "crop": "OATS",
+         "planted": 30024.93,
+         "volunteer": 0,
+         "failed": 0.75,
+         "prevented": 265.25,
+         "not_planted": 0,
+         "planted_and_failed": 30025.68
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 1793.15,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 1793.15
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 2199329.78,
+         "volunteer": 0,
+         "failed": 1269.36,
+         "prevented": 15287.15,
+         "not_planted": 0,
+         "planted_and_failed": 2200599.14
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 138893.57,
+         "volunteer": 0,
+         "failed": 423.26,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 139316.83
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 390719.12,
+         "volunteer": 333.99,
+         "failed": 10504.74,
+         "prevented": 76841.45,
+         "not_planted": 0,
+         "planted_and_failed": 401223.86
+      }
+   ],
+   "Minnesota": [
+      {
+         "crop": "BARLEY",
+         "planted": 54991.91,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 1805.34,
+         "not_planted": 0,
+         "planted_and_failed": 54991.91
+      },
+      {
+         "crop": "CORN",
+         "planted": 7977723.34,
+         "volunteer": 0,
+         "failed": 443.93,
+         "prevented": 271786.46,
+         "not_planted": 0,
+         "planted_and_failed": 7978167.27
+      },
+      {
+         "crop": "OATS",
+         "planted": 140315.47,
+         "volunteer": 0,
+         "failed": 39,
+         "prevented": 1447.51,
+         "not_planted": 0,
+         "planted_and_failed": 140354.47
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 2943.3,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2943.3
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 7349906.98,
+         "volunteer": 0,
+         "failed": 261.97,
+         "prevented": 105839.92,
+         "not_planted": 0,
+         "planted_and_failed": 7350168.95
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 433944.52,
+         "volunteer": 0,
+         "failed": 515.6,
+         "prevented": 184.4,
+         "not_planted": 0,
+         "planted_and_failed": 434460.12
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 1205029.2,
+         "volunteer": 0,
+         "failed": 427.11,
+         "prevented": 113630.32,
+         "not_planted": 0,
+         "planted_and_failed": 1205456.31
+      }
+   ],
+   "Mississippi": [
+      {
+         "crop": "CORN",
+         "planted": 567703.06,
+         "volunteer": 0,
+         "failed": 2774.99,
+         "prevented": 132163.1,
+         "not_planted": 0,
+         "planted_and_failed": 570478.05
+      },
+      {
+         "crop": "OATS",
+         "planted": 2253.27,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2253.27
+      },
+      {
+         "crop": "RICE",
+         "planted": 84490.43,
+         "volunteer": 0,
+         "failed": 75.52,
+         "prevented": 17332.33,
+         "not_planted": 0,
+         "planted_and_failed": 84565.95
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 2609.63,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2609.63
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 2288032.18,
+         "volunteer": 0,
+         "failed": 1638.75,
+         "prevented": 5205.16,
+         "not_planted": 0,
+         "planted_and_failed": 2289670.93
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 79039.66,
+         "volunteer": 0,
+         "failed": 15,
+         "prevented": 4240.68,
+         "not_planted": 0,
+         "planted_and_failed": 79054.66
+      }
+   ],
+   "Missouri": [
+      {
+         "crop": "BARLEY",
+         "planted": 2127.8,
+         "volunteer": 0,
+         "failed": 9.81,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2137.61
+      },
+      {
+         "crop": "CORN",
+         "planted": 3273453.02,
+         "volunteer": 0,
+         "failed": 6003.72,
+         "prevented": 97122.37,
+         "not_planted": 0,
+         "planted_and_failed": 3279456.74
+      },
+      {
+         "crop": "OATS",
+         "planted": 5025.61,
+         "volunteer": 0,
+         "failed": 56.29,
+         "prevented": 16.44,
+         "not_planted": 0,
+         "planted_and_failed": 5081.9
+      },
+      {
+         "crop": "RICE",
+         "planted": 150243.48,
+         "volunteer": 0,
+         "failed": 3560.87,
+         "prevented": 36793.92,
+         "not_planted": 0,
+         "planted_and_failed": 153804.35
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 33196.41,
+         "volunteer": 0,
+         "failed": 59.56,
+         "prevented": 108.05,
+         "not_planted": 0,
+         "planted_and_failed": 33255.97
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 6064555.05,
+         "volunteer": 0,
+         "failed": 1582.04,
+         "prevented": 10069.38,
+         "not_planted": 0,
+         "planted_and_failed": 6066137.09
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 509893.06,
+         "volunteer": 0,
+         "failed": 5017.42,
+         "prevented": 36737.69,
+         "not_planted": 0,
+         "planted_and_failed": 514910.48
+      }
+   ],
+   "Montana": [
+      {
+         "crop": "BARLEY",
+         "planted": 971154.6,
+         "volunteer": 54.44,
+         "failed": 3912.54,
+         "prevented": 4787.63,
+         "not_planted": 0,
+         "planted_and_failed": 975067.14
+      },
+      {
+         "crop": "CORN",
+         "planted": 123123.64,
+         "volunteer": 0,
+         "failed": 151.89,
+         "prevented": 851.64,
+         "not_planted": 0,
+         "planted_and_failed": 123275.53
+      },
+      {
+         "crop": "OATS",
+         "planted": 74328.71,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 34.08,
+         "not_planted": 0,
+         "planted_and_failed": 74328.71
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 2363.3,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2363.3
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 17639.58,
+         "volunteer": 0,
+         "failed": 333.86,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 17973.44
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 33655.07,
+         "volunteer": 0,
+         "failed": 127.56,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 33782.63
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 5061939.06,
+         "volunteer": 1525.36,
+         "failed": 167095.64,
+         "prevented": 41911.82,
+         "not_planted": 0,
+         "planted_and_failed": 5229034.7
+      }
+   ],
+   "Nebraska": [
+      {
+         "crop": "BARLEY",
+         "planted": 11206.23,
+         "volunteer": 0,
+         "failed": 4578.62,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 15784.85
+      },
+      {
+         "crop": "CORN",
+         "planted": 9543377.31,
+         "volunteer": 48.78,
+         "failed": 32802.93,
+         "prevented": 5348.84,
+         "not_planted": 0,
+         "planted_and_failed": 9576180.24
+      },
+      {
+         "crop": "OATS",
+         "planted": 107595.56,
+         "volunteer": 358.71,
+         "failed": 1000.84,
+         "prevented": 91.9,
+         "not_planted": 0,
+         "planted_and_failed": 108596.4
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 212868.42,
+         "volunteer": 21.5,
+         "failed": 188.44,
+         "prevented": 7.5,
+         "not_planted": 0,
+         "planted_and_failed": 213056.86
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 5698800.51,
+         "volunteer": 1.98,
+         "failed": 4823.97,
+         "prevented": 475.15,
+         "not_planted": 0,
+         "planted_and_failed": 5703624.48
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 39117.97,
+         "volunteer": 0,
+         "failed": 6419.36,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 45537.33
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 922249.95,
+         "volunteer": 344.31,
+         "failed": 30957.19,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 953207.14
+      }
+   ],
+   "Nevada": [
+      {
+         "crop": "BARLEY",
+         "planted": 576.29,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 576.29
+      },
+      {
+         "crop": "CORN",
+         "planted": 10824.58,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 3911.31,
+         "not_planted": 0,
+         "planted_and_failed": 10824.58
+      },
+      {
+         "crop": "OATS",
+         "planted": 584.63,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 584.63
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 867.41,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 867.41
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 12753.58,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 2758.17,
+         "not_planted": 0,
+         "planted_and_failed": 12753.58
+      }
+   ],
+   "New Hampshire": [
+      {
+         "crop": "BARLEY",
+         "planted": 172.5,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 172.5
+      },
+      {
+         "crop": "CORN",
+         "planted": 12031.25,
+         "volunteer": 0,
+         "failed": 2.77,
+         "prevented": 7.35,
+         "not_planted": 0,
+         "planted_and_failed": 12034.02
+      },
+      {
+         "crop": "OATS",
+         "planted": 38.06,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 38.06
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 13.5,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 13.5
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 263.47,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 263.47
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 64.59,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 64.59
+      }
+   ],
+   "New Jersey": [
+      {
+         "crop": "BARLEY",
+         "planted": 944.55,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 944.55
+      },
+      {
+         "crop": "CORN",
+         "planted": 68229.21,
+         "volunteer": 0,
+         "failed": 22.58,
+         "prevented": 149.12,
+         "not_planted": 0,
+         "planted_and_failed": 68251.79
+      },
+      {
+         "crop": "OATS",
+         "planted": 596.23,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 596.23
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 1540.87,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 1540.87
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 102507.75,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 426.85,
+         "not_planted": 0,
+         "planted_and_failed": 102507.75
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 61.7,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 61.7
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 17926.47,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 17926.47
+      }
+   ],
+   "New Mexico": [
+      {
+         "crop": "BARLEY",
+         "planted": 10203.76,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 10203.76
+      },
+      {
+         "crop": "CORN",
+         "planted": 99097.66,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 8702.52,
+         "not_planted": 0,
+         "planted_and_failed": 99097.66
+      },
+      {
+         "crop": "OATS",
+         "planted": 7860.6,
+         "volunteer": 0,
+         "failed": 120.29,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 7980.89
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 63350.05,
+         "volunteer": 0,
+         "failed": 425.6,
+         "prevented": 73.92,
+         "not_planted": 0,
+         "planted_and_failed": 63775.65
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 185.85,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 185.85
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 513282.87,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 513282.87
+      }
+   ],
+   "New York": [
+      {
+         "crop": "BARLEY",
+         "planted": 4141.79,
+         "volunteer": 0,
+         "failed": 82.17,
+         "prevented": 38.48,
+         "not_planted": 0,
+         "planted_and_failed": 4223.96
+      },
+      {
+         "crop": "CORN",
+         "planted": 993959.6,
+         "volunteer": 0,
+         "failed": 217.99,
+         "prevented": 16246.77,
+         "not_planted": 0,
+         "planted_and_failed": 994177.59
+      },
+      {
+         "crop": "OATS",
+         "planted": 31588.5,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 254.8,
+         "not_planted": 0,
+         "planted_and_failed": 31588.5
+      },
+      {
+         "crop": "RICE",
+         "planted": 0.5,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 0.5
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 1465.06,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 1465.06
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 339929.02,
+         "volunteer": 0,
+         "failed": 94.84,
+         "prevented": 9552.78,
+         "not_planted": 0,
+         "planted_and_failed": 340023.86
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 78286.19,
+         "volunteer": 86.3,
+         "failed": 1578.04,
+         "prevented": 24175.46,
+         "not_planted": 0,
+         "planted_and_failed": 79864.23
+      }
+   ],
+   "North Carolina": [
+      {
+         "crop": "BARLEY",
+         "planted": 12920.15,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 12920.15
+      },
+      {
+         "crop": "CORN",
+         "planted": 806100.81,
+         "volunteer": 0,
+         "failed": 100.65,
+         "prevented": 284.79,
+         "not_planted": 0,
+         "planted_and_failed": 806201.46
+      },
+      {
+         "crop": "OATS",
+         "planted": 16247.31,
+         "volunteer": 3.94,
+         "failed": 82.92,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 16330.23
+      },
+      {
+         "crop": "RICE",
+         "planted": 346.76,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 346.76
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 12662.44,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 12662.44
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 1669261.13,
+         "volunteer": 0,
+         "failed": 430.81,
+         "prevented": 4535.23,
+         "not_planted": 0,
+         "planted_and_failed": 1669691.94
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 428694.17,
+         "volunteer": 0,
+         "failed": 181.92,
+         "prevented": 435.32,
+         "not_planted": 0,
+         "planted_and_failed": 428876.09
+      }
+   ],
+   "North Dakota": [
+      {
+         "crop": "BARLEY",
+         "planted": 702610.55,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 49523.67,
+         "not_planted": 0,
+         "planted_and_failed": 702610.55
+      },
+      {
+         "crop": "CORN",
+         "planted": 2907160.57,
+         "volunteer": 36.21,
+         "failed": 183.63,
+         "prevented": 1190043.47,
+         "not_planted": 0,
+         "planted_and_failed": 2907344.2
+      },
+      {
+         "crop": "OATS",
+         "planted": 298309.44,
+         "volunteer": 58.85,
+         "failed": 0,
+         "prevented": 10158.89,
+         "not_planted": 0,
+         "planted_and_failed": 298309.44
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 3038.45,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 3038.45
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 5667718.69,
+         "volunteer": 3.28,
+         "failed": 91.87,
+         "prevented": 522509.76,
+         "not_planted": 0,
+         "planted_and_failed": 5667810.56
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 249467.79,
+         "volunteer": 0,
+         "failed": 55.4,
+         "prevented": 250.08,
+         "not_planted": 0,
+         "planted_and_failed": 249523.19
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 6071293.69,
+         "volunteer": 85.49,
+         "failed": 1506.25,
+         "prevented": 606128.04,
+         "not_planted": 0,
+         "planted_and_failed": 6072799.94
+      }
+   ],
+   "Ohio": [
+      {
+         "crop": "BARLEY",
+         "planted": 3994.48,
+         "volunteer": 0,
+         "failed": 158.41,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 4152.89
+      },
+      {
+         "crop": "CORN",
+         "planted": 3290405.75,
+         "volunteer": 0,
+         "failed": 2839.81,
+         "prevented": 37631.75,
+         "not_planted": 0,
+         "planted_and_failed": 3293245.56
+      },
+      {
+         "crop": "OATS",
+         "planted": 9635.87,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 4.66,
+         "not_planted": 0,
+         "planted_and_failed": 9635.87
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 1085.73,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 1085.73
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 5047089.26,
+         "volunteer": 88.52,
+         "failed": 1414.63,
+         "prevented": 16157.06,
+         "not_planted": 0,
+         "planted_and_failed": 5048503.89
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 450275.93,
+         "volunteer": 43.51,
+         "failed": 13392.35,
+         "prevented": 26244.43,
+         "not_planted": 0,
+         "planted_and_failed": 463668.28
+      }
+   ],
+   "Oklahoma": [
+      {
+         "crop": "BARLEY",
+         "planted": 39913.02,
+         "volunteer": 0,
+         "failed": 132.35,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 40045.37
+      },
+      {
+         "crop": "CORN",
+         "planted": 328958.91,
+         "volunteer": 0,
+         "failed": 1078.63,
+         "prevented": 2313.06,
+         "not_planted": 0,
+         "planted_and_failed": 330037.54
+      },
+      {
+         "crop": "OATS",
+         "planted": 27157.29,
+         "volunteer": 10,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 27157.29
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 394411.24,
+         "volunteer": 0,
+         "failed": 50.85,
+         "prevented": 68211.93,
+         "not_planted": 0,
+         "planted_and_failed": 394462.09
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 537092.2,
+         "volunteer": 102.28,
+         "failed": 762.13,
+         "prevented": 32724.16,
+         "not_planted": 0,
+         "planted_and_failed": 537854.33
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 5909763.33,
+         "volunteer": 1114.34,
+         "failed": 5309.1,
+         "prevented": 201.55,
+         "not_planted": 0,
+         "planted_and_failed": 5915072.43
+      }
+   ],
+   "Oregon": [
+      {
+         "crop": "BARLEY",
+         "planted": 31119.95,
+         "volunteer": 626.3,
+         "failed": 44.88,
+         "prevented": 2001.93,
+         "not_planted": 0,
+         "planted_and_failed": 31164.83
+      },
+      {
+         "crop": "CORN",
+         "planted": 78736.07,
+         "volunteer": 45.74,
+         "failed": 61,
+         "prevented": 5899.66,
+         "not_planted": 0,
+         "planted_and_failed": 78797.07
+      },
+      {
+         "crop": "OATS",
+         "planted": 13197.05,
+         "volunteer": 12.83,
+         "failed": 0,
+         "prevented": 118.31,
+         "not_planted": 0,
+         "planted_and_failed": 13197.05
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 220.76,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 220.76
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 329.89,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 329.89
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 9113.92,
+         "volunteer": 40.16,
+         "failed": 1441.69,
+         "prevented": 1599.77,
+         "not_planted": 0,
+         "planted_and_failed": 10555.61
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 728161.42,
+         "volunteer": 1009.52,
+         "failed": 1859.08,
+         "prevented": 3931.51,
+         "not_planted": 0,
+         "planted_and_failed": 730020.5
+      }
+   ],
+   "Pennsylvania": [
+      {
+         "crop": "BARLEY",
+         "planted": 20694.03,
+         "volunteer": 0,
+         "failed": 18,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 20712.03
+      },
+      {
+         "crop": "CORN",
+         "planted": 897778.88,
+         "volunteer": 0,
+         "failed": 20.06,
+         "prevented": 2769.29,
+         "not_planted": 0,
+         "planted_and_failed": 897798.94
+      },
+      {
+         "crop": "OATS",
+         "planted": 32359.91,
+         "volunteer": 0,
+         "failed": 4.5,
+         "prevented": 65.5,
+         "not_planted": 0,
+         "planted_and_failed": 32364.41
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 7583.49,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 7583.49
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 565021.31,
+         "volunteer": 0,
+         "failed": 83.88,
+         "prevented": 614.69,
+         "not_planted": 0,
+         "planted_and_failed": 565105.19
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 131594.06,
+         "volunteer": 24.37,
+         "failed": 72.71,
+         "prevented": 1676.89,
+         "not_planted": 0,
+         "planted_and_failed": 131666.77
+      }
+   ],
+   "Puerto Rico": [
+      {
+         "crop": "CORN",
+         "planted": 2.91,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2.91
+      }
+   ],
+   "Rhode Island": [
+      {
+         "crop": "CORN",
+         "planted": 1651.34,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 1651.34
+      },
+      {
+         "crop": "OATS",
+         "planted": 37.57,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 37.57
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 11.24,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 11.24
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 7.45,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 7.45
+      }
+   ],
+   "South Carolina": [
+      {
+         "crop": "BARLEY",
+         "planted": 524.51,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 524.51
+      },
+      {
+         "crop": "CORN",
+         "planted": 298694.21,
+         "volunteer": 0,
+         "failed": 121.35,
+         "prevented": 1803.65,
+         "not_planted": 0,
+         "planted_and_failed": 298815.56
+      },
+      {
+         "crop": "OATS",
+         "planted": 12261.02,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 12261.02
+      },
+      {
+         "crop": "RICE",
+         "planted": 105.22,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 105.22
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 8674.29,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 42.2,
+         "not_planted": 0,
+         "planted_and_failed": 8674.29
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 385590.8,
+         "volunteer": 0,
+         "failed": 75.2,
+         "prevented": 5729.93,
+         "not_planted": 0,
+         "planted_and_failed": 385666
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 98954.09,
+         "volunteer": 0,
+         "failed": 276.7,
+         "prevented": 5368.99,
+         "not_planted": 0,
+         "planted_and_failed": 99230.79
+      }
+   ],
+   "South Dakota": [
+      {
+         "crop": "BARLEY",
+         "planted": 27464.69,
+         "volunteer": 0,
+         "failed": 110,
+         "prevented": 59.7,
+         "not_planted": 0,
+         "planted_and_failed": 27574.69
+      },
+      {
+         "crop": "CORN",
+         "planted": 5650737.95,
+         "volunteer": 0,
+         "failed": 1931.09,
+         "prevented": 544162.42,
+         "not_planted": 0,
+         "planted_and_failed": 5652669.04
+      },
+      {
+         "crop": "OATS",
+         "planted": 244139.37,
+         "volunteer": 7.51,
+         "failed": 1081.9,
+         "prevented": 1073.24,
+         "not_planted": 0,
+         "planted_and_failed": 245221.27
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 211821.23,
+         "volunteer": 0,
+         "failed": 468.65,
+         "prevented": 1185.53,
+         "not_planted": 0,
+         "planted_and_failed": 212289.88
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 5037775.51,
+         "volunteer": 0,
+         "failed": 2852.49,
+         "prevented": 183007.69,
+         "not_planted": 0,
+         "planted_and_failed": 5040628
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 57.4,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 57.4
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 1489834.09,
+         "volunteer": 1574.91,
+         "failed": 42544.96,
+         "prevented": 7992.5,
+         "not_planted": 0,
+         "planted_and_failed": 1532379.05
+      }
+   ],
+   "Tennessee": [
+      {
+         "crop": "BARLEY",
+         "planted": 2357.85,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2357.85
+      },
+      {
+         "crop": "CORN",
+         "planted": 797480.41,
+         "volunteer": 3.53,
+         "failed": 2048.44,
+         "prevented": 11499.03,
+         "not_planted": 0,
+         "planted_and_failed": 799528.85
+      },
+      {
+         "crop": "OATS",
+         "planted": 3897.76,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 3897.76
+      },
+      {
+         "crop": "RICE",
+         "planted": 1325.97,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 418.94,
+         "not_planted": 0,
+         "planted_and_failed": 1325.97
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 3021.85,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 3021.85
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 1602649.02,
+         "volunteer": 0,
+         "failed": 20,
+         "prevented": 691.86,
+         "not_planted": 0,
+         "planted_and_failed": 1602669.02
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 345201.91,
+         "volunteer": 0,
+         "failed": 563.12,
+         "prevented": 8608.59,
+         "not_planted": 0,
+         "planted_and_failed": 345765.03
+      }
+   ],
+   "Texas": [
+      {
+         "crop": "BARLEY",
+         "planted": 33516.41,
+         "volunteer": 0,
+         "failed": 46.66,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 33563.07
+      },
+      {
+         "crop": "CORN",
+         "planted": 2074828.56,
+         "volunteer": 0,
+         "failed": 22051.99,
+         "prevented": 15418.67,
+         "not_planted": 0,
+         "planted_and_failed": 2096880.55
+      },
+      {
+         "crop": "OATS",
+         "planted": 312002.59,
+         "volunteer": 2089.61,
+         "failed": 738.3,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 312740.89
+      },
+      {
+         "crop": "RICE",
+         "planted": 191613.91,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 46.75,
+         "not_planted": 0,
+         "planted_and_failed": 191613.91
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 1297998.26,
+         "volunteer": 20,
+         "failed": 34074.87,
+         "prevented": 12093.34,
+         "not_planted": 0,
+         "planted_and_failed": 1332073.13
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 143261.45,
+         "volunteer": 0,
+         "failed": 2008.68,
+         "prevented": 2998.85,
+         "not_planted": 0,
+         "planted_and_failed": 145270.13
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 6744600.61,
+         "volunteer": 4820.41,
+         "failed": 241693.31,
+         "prevented": 8665.83,
+         "not_planted": 0,
+         "planted_and_failed": 6986293.92
+      }
+   ],
+   "Utah": [
+      {
+         "crop": "BARLEY",
+         "planted": 14939.49,
+         "volunteer": 58.93,
+         "failed": 21.83,
+         "prevented": 70,
+         "not_planted": 0,
+         "planted_and_failed": 14961.32
+      },
+      {
+         "crop": "CORN",
+         "planted": 55681.67,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 273.73,
+         "not_planted": 0,
+         "planted_and_failed": 55681.67
+      },
+      {
+         "crop": "OATS",
+         "planted": 7344.03,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 7344.03
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 615.87,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 615.87
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 29.37,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 29.37
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 114718.53,
+         "volunteer": 439.85,
+         "failed": 1888.55,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 116607.08
+      }
+   ],
+   "Vermont": [
+      {
+         "crop": "BARLEY",
+         "planted": 101.45,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 101.45
+      },
+      {
+         "crop": "CORN",
+         "planted": 83510.9,
+         "volunteer": 0,
+         "failed": 9.89,
+         "prevented": 30.94,
+         "not_planted": 0,
+         "planted_and_failed": 83520.79
+      },
+      {
+         "crop": "OATS",
+         "planted": 45.95,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 45.95
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 7.97,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 7.97
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 7857.11,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 7857.11
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 860.99,
+         "volunteer": 0,
+         "failed": 33.28,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 894.27
+      }
+   ],
+   "Virgin Islands of the U.S.": [
+      {
+         "crop": "CORN",
+         "planted": 0.07,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 0.07
+      }
+   ],
+   "Virginia": [
+      {
+         "crop": "BARLEY",
+         "planted": 16575.84,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 16575.84
+      },
+      {
+         "crop": "CORN",
+         "planted": 391849.64,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 99.49,
+         "not_planted": 0,
+         "planted_and_failed": 391849.64
+      },
+      {
+         "crop": "OATS",
+         "planted": 5141.87,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 5141.87
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 4775.24,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 4775.24
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 602680.89,
+         "volunteer": 0,
+         "failed": 16.59,
+         "prevented": 575.55,
+         "not_planted": 0,
+         "planted_and_failed": 602697.48
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 158321.71,
+         "volunteer": 0,
+         "failed": 428.67,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 158750.38
+      }
+   ],
+   "Washington": [
+      {
+         "crop": "BARLEY",
+         "planted": 61352.22,
+         "volunteer": 63.46,
+         "failed": 0,
+         "prevented": 542.07,
+         "not_planted": 0,
+         "planted_and_failed": 61352.22
+      },
+      {
+         "crop": "CORN",
+         "planted": 131316.85,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 423.37,
+         "not_planted": 0,
+         "planted_and_failed": 131316.85
+      },
+      {
+         "crop": "OATS",
+         "planted": 9852.91,
+         "volunteer": 150.09,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 9852.91
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 191.55,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 191.55
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 198.59,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 198.59
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 2364.86,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2364.86
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 2237144.22,
+         "volunteer": 1272.94,
+         "failed": 1092.74,
+         "prevented": 2304.93,
+         "not_planted": 0,
+         "planted_and_failed": 2238236.96
+      }
+   ],
+   "West Virginia": [
+      {
+         "crop": "BARLEY",
+         "planted": 618.35,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 618.35
+      },
+      {
+         "crop": "CORN",
+         "planted": 39109.77,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 43.86,
+         "not_planted": 0,
+         "planted_and_failed": 39109.77
+      },
+      {
+         "crop": "OATS",
+         "planted": 669.62,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 669.62
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 385.52,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 385.52
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 29699.13,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 29699.13
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 5184.17,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 5184.17
+      }
+   ],
+   "Wisconsin": [
+      {
+         "crop": "BARLEY",
+         "planted": 10647.94,
+         "volunteer": 1.74,
+         "failed": 35.56,
+         "prevented": 5.11,
+         "not_planted": 0,
+         "planted_and_failed": 10683.5
+      },
+      {
+         "crop": "CORN",
+         "planted": 3875687.57,
+         "volunteer": 0,
+         "failed": 589.16,
+         "prevented": 17887.94,
+         "not_planted": 0,
+         "planted_and_failed": 3876276.73
+      },
+      {
+         "crop": "OATS",
+         "planted": 121581.36,
+         "volunteer": 0,
+         "failed": 19.65,
+         "prevented": 84.03,
+         "not_planted": 0,
+         "planted_and_failed": 121601.01
+      },
+      {
+         "crop": "RICE",
+         "planted": 2,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 2281.3,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 2281.3
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 2135354.53,
+         "volunteer": 0,
+         "failed": 788.82,
+         "prevented": 4785.68,
+         "not_planted": 0,
+         "planted_and_failed": 2136143.35
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 34.91,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 34.91
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 227823.5,
+         "volunteer": 116.73,
+         "failed": 1703.12,
+         "prevented": 378.95,
+         "not_planted": 0,
+         "planted_and_failed": 229526.62
+      }
+   ],
+   "Wyoming": [
+      {
+         "crop": "BARLEY",
+         "planted": 66427.78,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 6.21,
+         "not_planted": 0,
+         "planted_and_failed": 66427.78
+      },
+      {
+         "crop": "CORN",
+         "planted": 90831.09,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 167.18,
+         "not_planted": 0,
+         "planted_and_failed": 90831.09
+      },
+      {
+         "crop": "OATS",
+         "planted": 20955.74,
+         "volunteer": 6.85,
+         "failed": 0,
+         "prevented": 134.42,
+         "not_planted": 0,
+         "planted_and_failed": 20955.74
+      },
+      {
+         "crop": "SORGHUM",
+         "planted": 406.13,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 406.13
+      },
+      {
+         "crop": "SOYBEANS",
+         "planted": 811.46,
+         "volunteer": 0,
+         "failed": 0,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 811.46
+      },
+      {
+         "crop": "SUGAR BEETS",
+         "planted": 28342.23,
+         "volunteer": 0,
+         "failed": 1178.35,
+         "prevented": 0,
+         "not_planted": 0,
+         "planted_and_failed": 29520.58
+      },
+      {
+         "crop": "WHEAT",
+         "planted": 111955.82,
+         "volunteer": 192.2,
+         "failed": 2415.89,
+         "prevented": 115.96,
+         "not_planted": 0,
+         "planted_and_failed": 114371.71
+      }
+   ]
+}}]
