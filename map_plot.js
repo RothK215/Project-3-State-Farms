@@ -3,6 +3,7 @@ function markerSize(data) {
   return Math.sqrt(data) * 50;
 }
 
+
 // An array that contains all the information needed to create city and state markers
 var state = [
   {
@@ -689,10 +690,9 @@ for (var i = 0; i < state.length; i++) {
       color: "black",
       fillColor: "green",
       radius: markerSize(state[i].acre_info.planted)
-    }),
-    L.marker(state[i].coord).bindPopup("<h3>" + state[i].acre_info.planted + "</h3>" + 
+    }).bindPopup("<h3>" + state[i].state_name +": "+ state[i].acre_info.planted +" acres"+ "</h3>" + 
                                        "<hr>" +
-                                       "<h4>" + state[i].acre_info.farm_count + "</h4>")
+                                       "<h4>" +"State's Total Farm Count: "+  state[i].acre_info.farm_count + "</h4>")
   );
 
   volunteerMarkers.push(
@@ -702,10 +702,9 @@ for (var i = 0; i < state.length; i++) {
       color: "black",
       fillColor: "yellow",
       radius: markerSize(state[i].acre_info.volunteer)
-    }),
-    L.marker(state[i].coord).bindPopup("<h3>" + state[i].acre_info.volunteer + "</h3>" + 
+    }).bindPopup("<h3>" + state[i].state_name +": "+ state[i].acre_info.volunteer +" acres"+ "</h3>" + 
                                        "<hr>" +
-                                       "<h4>" + state[i].acre_info.farm_count + "</h4>")
+                                       "<h4>" +"State's Total Farm Count: "+  state[i].acre_info.farm_count + "</h4>")
   );
 
   failedMarkers.push(
@@ -715,10 +714,9 @@ for (var i = 0; i < state.length; i++) {
       color: "black",
       fillColor: "red",
       radius: markerSize(state[i].acre_info.failed)
-    }),
-    L.marker(state[i].coord).bindPopup("<h3>" + state[i].acre_info.failed + "</h3>" + 
+    }).bindPopup("<h3>" + state[i].state_name +": "+ state[i].acre_info.failed +" acres"+ "</h3>" + 
                                        "<hr>" +
-                                       "<h4>" + state[i].acre_info.farm_count + "</h4>")
+                                       "<h4>" +"State's Total Farm Count: "+  state[i].acre_info.farm_count + "</h4>")
   );
 
   preventedMarkers.push(
@@ -728,10 +726,9 @@ for (var i = 0; i < state.length; i++) {
       color: "black",
       fillColor: "orange",
       radius: markerSize(state[i].acre_info.prevented)
-    }),
-    L.marker(state[i].coord).bindPopup("<h3>" + state[i].acre_info.prevented + "</h3>" + 
+    }).bindPopup("<h3>" + state[i].state_name +": "+ state[i].acre_info.prevented +" acres"+ "</h3>" + 
                                        "<hr>" +
-                                       "<h4>" + state[i].acre_info.farm_count + "</h4>")
+                                       "<h4>" +"State's Total Farm Count: "+  state[i].acre_info.farm_count + "</h4>")
   );
 
   not_plantedMarkers.push(
@@ -741,10 +738,9 @@ for (var i = 0; i < state.length; i++) {
       color: "black",
       fillColor: "black",
       radius: markerSize(state[i].acre_info.not_planted)
-    }),
-    L.marker(state[i].coord).bindPopup("<h3>" + state[i].acre_info.not_planted + "</h3>" + 
+    }).bindPopup("<h3>" + state[i].state_name +": "+ state[i].acre_info.not_planted +" acres"+ "</h3>" + 
                                        "<hr>" +
-                                       "<h4>" + state[i].acre_info.farm_count + "</h4>")
+                                       "<h4>" +"State's Total Farm Count: "+  state[i].acre_info.farm_count + "</h4>")
   );
 
 

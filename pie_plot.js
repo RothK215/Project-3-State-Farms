@@ -8,6 +8,7 @@ let Connecticut = Object.values(data.Connecticut);
 let Delaware = Object.values(data.Delaware);
 let Florida = Object.values(data.Florida);
 let Georgia = Object.values(data.Georgia);
+let Guam = Object.values(data.Guam);
 let Idaho = Object.values(data.Idaho);
 let Illinois = Object.values(data.Illinois);
 let Indiana = Object.values(data.Indiana);
@@ -65,7 +66,8 @@ function init() {
     height: 500,
     width: 500,
     plot_bgcolor: "rgba(0,0,0,0)",
-    paper_bgcolor: "rgba(0,0,0,0)"       
+    paper_bgcolor: "rgba(0,0,0,0)",       
+    font:(color='white')
   };
  
   
@@ -112,6 +114,9 @@ else if (dataset == 'Florida') {
 }
 else if (dataset == 'Georgia') {
     data = Georgia;
+}
+else if (dataset == 'Guam') {
+    data = Guam;
 }
 else if (dataset == 'Idaho') {
     data = Idaho;
@@ -218,7 +223,7 @@ else if (dataset == 'Utah') {
 else if (dataset == 'Vermont') {
     data = Vermont;
 }
-else if (dataset == 'Virgin_Islands_of_the_US') {
+else if (dataset == 'Virgin Islands of the U.S.') {
     data = Virgin_Islands_of_the_US;
 }
 else if (dataset == 'Virginia') {
