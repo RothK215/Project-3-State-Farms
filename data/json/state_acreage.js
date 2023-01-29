@@ -1,0 +1,482 @@
+let dataA = {
+
+"states":{
+   "Alabama": {
+      "planted": 3500663.71,
+      "volunteer": 122848.87,
+      "failed": 1613.7,
+      "prevented": 5036.15,
+      "not_planted": 109401.41,
+      "planted_and_failed": 3502277.41,
+      "farm_count": 46833
+   },
+   "Alaska": {
+      "planted": 92718.16,
+      "volunteer": 1037.82,
+      "failed": 0,
+      "prevented": 2523.23,
+      "not_planted": 10681.28,
+      "planted_and_failed": 92718.16,
+      "farm_count": 125
+   },
+   "Arizona": {
+      "planted": 15322271.49,
+      "volunteer": 3622027.65,
+      "failed": 275.1,
+      "prevented": 63692.13,
+      "not_planted": 48976.01,
+      "planted_and_failed": 15322546.59,
+      "farm_count": 3372
+   },
+   "Arkansas": {
+      "planted": 8933211.89,
+      "volunteer": 243448.27,
+      "failed": 32211.96,
+      "prevented": 584878.93,
+      "not_planted": 98339.85,
+      "planted_and_failed": 8965423.85,
+      "farm_count": 56549
+   },
+   "California": {
+      "planted": 14298834.1,
+      "volunteer": 447831.5,
+      "failed": 1066.52,
+      "prevented": 395716.77,
+      "not_planted": 265226.37,
+      "planted_and_failed": 14299900.62,
+      "farm_count": 21187
+   },
+   "Colorado": {
+      "planted": 24331538.9,
+      "volunteer": 148703.42,
+      "failed": 456344.62,
+      "prevented": 283187.98,
+      "not_planted": 1008618.4,
+      "planted_and_failed": 24787883.52,
+      "farm_count": 31466
+   },
+   "Connecticut": {
+      "planted": 86424.34,
+      "volunteer": 1.77,
+      "failed": 50.5,
+      "prevented": 0,
+      "not_planted": 2201.01,
+      "planted_and_failed": 86474.84,
+      "farm_count": 2425
+   },
+   "Delaware": {
+      "planted": 539150.12,
+      "volunteer": 481.19,
+      "failed": 565.12,
+      "prevented": 0,
+      "not_planted": 41.43,
+      "planted_and_failed": 539715.24,
+      "farm_count": 4954
+   },
+   "Florida": {
+      "planted": 2640086.83,
+      "volunteer": 261673.22,
+      "failed": 543.64,
+      "prevented": 29.73,
+      "not_planted": 1307703.49,
+      "planted_and_failed": 2640630.47,
+      "farm_count": 12582
+   },
+   "Georgia": {
+      "planted": 5076482.13,
+      "volunteer": 18011.08,
+      "failed": 437.13,
+      "prevented": 2437.26,
+      "not_planted": 379078.25,
+      "planted_and_failed": 5076919.26,
+      "farm_count": 47253
+   },
+   "Guam": {
+      "planted": 20.18,
+      "volunteer": 0,
+      "failed": 0,
+      "prevented": 0,
+      "not_planted": 0,
+      "planted_and_failed": 20.18,
+      "farm_count": 10
+   },
+   "Hawaii": {
+      "planted": 415781.53,
+      "volunteer": 0,
+      "failed": 0,
+      "prevented": 0.08,
+      "not_planted": 0.68,
+      "planted_and_failed": 415781.53,
+      "farm_count": 909
+   },
+   "Idaho": {
+      "planted": 8676732.05,
+      "volunteer": 1664616.22,
+      "failed": 13353.68,
+      "prevented": 100381.42,
+      "not_planted": 164150.94,
+      "planted_and_failed": 8690085.73,
+      "farm_count": 22623
+   },
+   "Illinois": {
+      "planted": 24159267.61,
+      "volunteer": 317143.04,
+      "failed": 6264.02,
+      "prevented": 116824.44,
+      "not_planted": 58574.41,
+      "planted_and_failed": 24165531.63,
+      "farm_count": 198376
+   },
+   "Indiana": {
+      "planted": 13007231.72,
+      "volunteer": 208085.42,
+      "failed": 8384.46,
+      "prevented": 50337.73,
+      "not_planted": 38039.22,
+      "planted_and_failed": 13015616.18,
+      "farm_count": 131813
+   },
+   "Iowa": {
+      "planted": 28456781.33,
+      "volunteer": 349674.56,
+      "failed": 3043.62,
+      "prevented": 5097.41,
+      "not_planted": 54781.84,
+      "planted_and_failed": 28459824.95,
+      "farm_count": 188205
+   },
+   "Kansas": {
+      "planted": 45445154.71,
+      "volunteer": 77558.85,
+      "failed": 74168.36,
+      "prevented": 208836.39,
+      "not_planted": 123315,
+      "planted_and_failed": 45519323.07,
+      "farm_count": 134144
+   },
+   "Kentucky": {
+      "planted": 6546140.67,
+      "volunteer": 191673.86,
+      "failed": 1637.73,
+      "prevented": 16357.45,
+      "not_planted": 86177.63,
+      "planted_and_failed": 6547778.4,
+      "farm_count": 71109
+   },
+   "Louisiana": {
+      "planted": 4451946,
+      "volunteer": 404301.32,
+      "failed": 11158.34,
+      "prevented": 85845.11,
+      "not_planted": 286913.49,
+      "planted_and_failed": 4463104.35,
+      "farm_count": 32196
+   },
+   "Maine": {
+      "planted": 307639.33,
+      "volunteer": 53743.47,
+      "failed": 2.5,
+      "prevented": 415.73,
+      "not_planted": 36085.6,
+      "planted_and_failed": 307641.83,
+      "farm_count": 5046
+   },
+   "Maryland": {
+      "planted": 1636528.82,
+      "volunteer": 25307.61,
+      "failed": 302.1,
+      "prevented": 335.91,
+      "not_planted": 12223.08,
+      "planted_and_failed": 1636830.92,
+      "farm_count": 17840
+   },
+   "Massachusetts": {
+      "planted": 110981.15,
+      "volunteer": 409.88,
+      "failed": 0,
+      "prevented": 157,
+      "not_planted": 20756.43,
+      "planted_and_failed": 110981.15,
+      "farm_count": 3552
+   },
+   "Michigan": {
+      "planted": 6665734.46,
+      "volunteer": 115776.33,
+      "failed": 15095.29,
+      "prevented": 110493.49,
+      "not_planted": 178543.57,
+      "planted_and_failed": 6680829.75,
+      "farm_count": 73081
+   },
+   "Minnesota": {
+      "planted": 21287853.93,
+      "volunteer": 408988.98,
+      "failed": 2741.89,
+      "prevented": 511796.52,
+      "not_planted": 164237.06,
+      "planted_and_failed": 21290595.82,
+      "farm_count": 129115
+   },
+   "Mississippi": {
+      "planted": 5211117.45,
+      "volunteer": 56358.38,
+      "failed": 7269.02,
+      "prevented": 162185.73,
+      "not_planted": 83761.05,
+      "planted_and_failed": 5218386.47,
+      "farm_count": 35092
+   },
+   "Missouri": {
+      "planted": 20173496.98,
+      "volunteer": 265097.94,
+      "failed": 32265.14,
+      "prevented": 191358.23,
+      "not_planted": 37529.33,
+      "planted_and_failed": 20205762.12,
+      "farm_count": 141462
+   },
+   "Montana": {
+      "planted": 47576634.49,
+      "volunteer": 51495.91,
+      "failed": 195484.35,
+      "prevented": 57945.3,
+      "not_planted": 2521721.87,
+      "planted_and_failed": 47772118.84,
+      "farm_count": 44605
+   },
+   "Nebraska": {
+      "planted": 42508314.56,
+      "volunteer": 40292.05,
+      "failed": 84842.67,
+      "prevented": 6759.95,
+      "not_planted": 297327.81,
+      "planted_and_failed": 42593157.23,
+      "farm_count": 108109
+   },
+   "Nevada": {
+      "planted": 3618566.23,
+      "volunteer": 1670.94,
+      "failed": 365.46,
+      "prevented": 7034.56,
+      "not_planted": 5896.96,
+      "planted_and_failed": 3618931.69,
+      "farm_count": 1950
+   },
+   "New Hampshire": {
+      "planted": 70641.94,
+      "volunteer": 3722.15,
+      "failed": 15.87,
+      "prevented": 7.35,
+      "not_planted": 62954.48,
+      "planted_and_failed": 70657.81,
+      "farm_count": 1568
+   },
+   "New Jersey": {
+      "planted": 309802.19,
+      "volunteer": 412.52,
+      "failed": 22.58,
+      "prevented": 575.97,
+      "not_planted": 40412.61,
+      "planted_and_failed": 309824.77,
+      "farm_count": 5130
+   },
+   "New Mexico": {
+      "planted": 28413544.18,
+      "volunteer": 7675.25,
+      "failed": 20242.36,
+      "prevented": 13754.2,
+      "not_planted": 102320.99,
+      "planted_and_failed": 28433786.54,
+      "farm_count": 10746
+   },
+   "New York": {
+      "planted": 3330209.79,
+      "volunteer": 76189,
+      "failed": 2321.06,
+      "prevented": 50788.05,
+      "not_planted": 160042.13,
+      "planted_and_failed": 3332530.84,
+      "farm_count": 39880
+   },
+   "North Carolina": {
+      "planted": 5025826.79,
+      "volunteer": 175429.15,
+      "failed": 1333.05,
+      "prevented": 5986.7,
+      "not_planted": 105137.36,
+      "planted_and_failed": 5027159.84,
+      "farm_count": 81287
+   },
+   "North Dakota": {
+      "planted": 34557755.68,
+      "volunteer": 261938.22,
+      "failed": 5135.34,
+      "prevented": 2772263.71,
+      "not_planted": 521097.76,
+      "planted_and_failed": 34562891.02,
+      "farm_count": 74911
+   },
+   "Ohio": {
+      "planted": 10345485.04,
+      "volunteer": 108425.48,
+      "failed": 19577.12,
+      "prevented": 80106.78,
+      "not_planted": 82034.6,
+      "planted_and_failed": 10365062.16,
+      "farm_count": 120061
+   },
+   "Oklahoma": {
+      "planted": 28098963.94,
+      "volunteer": 86524.05,
+      "failed": 20713.08,
+      "prevented": 104068.76,
+      "not_planted": 245259.08,
+      "planted_and_failed": 28119677.02,
+      "farm_count": 99849
+   },
+   "Oregon": {
+      "planted": 12525696.02,
+      "volunteer": 26205.71,
+      "failed": 7909.36,
+      "prevented": 21867.02,
+      "not_planted": 33430.46,
+      "planted_and_failed": 12533605.38,
+      "farm_count": 18103
+   },
+   "Pennsylvania": {
+      "planted": 2746130.18,
+      "volunteer": 46203.34,
+      "failed": 297.16,
+      "prevented": 5132.47,
+      "not_planted": 129074.34,
+      "planted_and_failed": 2746427.34,
+      "farm_count": 50219
+   },
+   "Puerto Rico": {
+      "planted": 13449.51,
+      "volunteer": 0,
+      "failed": 0,
+      "prevented": 0.4,
+      "not_planted": 116.68,
+      "planted_and_failed": 13449.51,
+      "farm_count": 839
+   },
+   "Rhode Island": {
+      "planted": 15159.07,
+      "volunteer": 0,
+      "failed": 22.09,
+      "prevented": 0,
+      "not_planted": 1484.12,
+      "planted_and_failed": 15181.16,
+      "farm_count": 853
+   },
+   "South Carolina": {
+      "planted": 1875008.1,
+      "volunteer": 8681.2,
+      "failed": 1021.84,
+      "prevented": 15232.9,
+      "not_planted": 77970.94,
+      "planted_and_failed": 1876029.94,
+      "farm_count": 25690
+   },
+   "South Dakota": {
+      "planted": 42151745.89,
+      "volunteer": 63194.43,
+      "failed": 53131.57,
+      "prevented": 745568.24,
+      "not_planted": 438319.64,
+      "planted_and_failed": 42204877.46,
+      "farm_count": 74056
+   },
+   "Tennessee": {
+      "planted": 4935688.47,
+      "volunteer": 187442.63,
+      "failed": 8771.18,
+      "prevented": 31833.91,
+      "not_planted": 71726.87,
+      "planted_and_failed": 4944459.65,
+      "farm_count": 58121
+   },
+   "Texas": {
+      "planted": 77150000.11,
+      "volunteer": 374552.12,
+      "failed": 4188455.29,
+      "prevented": 85825.76,
+      "not_planted": 979690.71,
+      "planted_and_failed": 81338455.39,
+      "farm_count": 190974
+   },
+   "Utah": {
+      "planted": 6992208.16,
+      "volunteer": 275990.16,
+      "failed": 3510.71,
+      "prevented": 29154.83,
+      "not_planted": 52466.87,
+      "planted_and_failed": 6995718.87,
+      "farm_count": 11518
+   },
+   "Vermont": {
+      "planted": 979504.11,
+      "volunteer": 2256.38,
+      "failed": 51.47,
+      "prevented": 30.94,
+      "not_planted": 47756.01,
+      "planted_and_failed": 979555.58,
+      "farm_count": 6232
+   },
+   "Virgin Islands of the U.S.": {
+      "planted": 2327.8,
+      "volunteer": 0,
+      "failed": 0.03,
+      "prevented": 0,
+      "not_planted": 0,
+      "planted_and_failed": 2327.83,
+      "farm_count": 96
+   },
+   "Virginia": {
+      "planted": 3076990.19,
+      "volunteer": 70301.88,
+      "failed": 744.59,
+      "prevented": 675.04,
+      "not_planted": 50543.08,
+      "planted_and_failed": 3077734.78,
+      "farm_count": 41373
+   },
+   "Washington": {
+      "planted": 9302682.45,
+      "volunteer": 6877.44,
+      "failed": 1429.08,
+      "prevented": 5808.25,
+      "not_planted": 304391.16,
+      "planted_and_failed": 9304111.53,
+      "farm_count": 18059
+   },
+   "West Virginia": {
+      "planted": 535123.99,
+      "volunteer": 235287.06,
+      "failed": 39.42,
+      "prevented": 142.28,
+      "not_planted": 28375.41,
+      "planted_and_failed": 535163.41,
+      "farm_count": 12051
+   },
+   "Wisconsin": {
+      "planted": 9479194.15,
+      "volunteer": 290521.52,
+      "failed": 6712.68,
+      "prevented": 23750.28,
+      "not_planted": 137239.61,
+      "planted_and_failed": 9485906.83,
+      "farm_count": 113370
+   },
+   "Wyoming": {
+      "planted": 20780383.62,
+      "volunteer": 12278.8,
+      "failed": 4395.79,
+      "prevented": 594.82,
+      "not_planted": 43198.01,
+      "planted_and_failed": 20784779.41,
+      "farm_count": 11771 
+   },
+}
+};

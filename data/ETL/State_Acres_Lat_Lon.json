@@ -1,0 +1,257 @@
+{
+   "Alabama": {
+      "Acres_Farmed": 1158192,
+      "Lat": 32.318231,
+      "Lon": -86.902298
+   },
+   "Alaska": {
+      "Acres_Farmed": 6178,
+      "Lat": 63.588753,
+      "Lon": -154.493062
+   },
+   "Arizona": {
+      "Acres_Farmed": 335673,
+      "Lat": 32.318231,
+      "Lon": -86.902298
+   },
+   "Arkansas": {
+      "Acres_Farmed": 5786166,
+      "Lat": 35.20105,
+      "Lon": -91.831833
+   },
+   "California": {
+      "Acres_Farmed": 1141461,
+      "Lat": 36.778261,
+      "Lon": -119.417932
+   },
+   "Colorado": {
+      "Acres_Farmed": 3927968,
+      "Lat": 39.550051,
+      "Lon": -105.782067
+   },
+   "Connecticut": {
+      "Acres_Farmed": 23906,
+      "Lat": 41.603221,
+      "Lon": -73.087749
+   },
+   "Delaware": {
+      "Acres_Farmed": 384463,
+      "Lat": 38.910832,
+      "Lon": -75.52767
+   },
+   "Florida": {
+      "Acres_Farmed": 394039,
+      "Lat": 27.664827,
+      "Lon": -81.515754
+   },
+   "Georgia": {
+      "Acres_Farmed": 2013729,
+      "Lat": 32.157435,
+      "Lon": -82.907123
+   },
+   "Idaho": {
+      "Acres_Farmed": 2123909,
+      "Lat": 19.898682,
+      "Lon": -155.665857
+   },
+   "Illinois": {
+      "Acres_Farmed": 21965155,
+      "Lat": 19.898682,
+      "Lon": -155.665857
+   },
+   "Indiana": {
+      "Acres_Farmed": 11359770,
+      "Lat": 19.898682,
+      "Lon": -155.665857
+   },
+   "Iowa": {
+      "Acres_Farmed": 22884899,
+      "Lat": 41.878003,
+      "Lon": -93.097702
+   },
+   "Kansas": {
+      "Acres_Farmed": 21074211,
+      "Lat": 39.011902,
+      "Lon": -98.484246
+   },
+   "Kentucky": {
+      "Acres_Farmed": 3755736,
+      "Lat": 37.839333,
+      "Lon": -84.270018
+   },
+   "Louisiana": {
+      "Acres_Farmed": 2885413,
+      "Lat": 31.244823,
+      "Lon": -92.145024
+   },
+   "Maine": {
+      "Acres_Farmed": 65145,
+      "Lat": 45.253783,
+      "Lon": -69.445469
+   },
+   "Maryland": {
+      "Acres_Farmed": 1085739,
+      "Lat": 45.253783,
+      "Lon": -69.445469
+   },
+   "Massachusetts": {
+      "Acres_Farmed": 14973,
+      "Lat": 45.253783,
+      "Lon": -69.445469
+   },
+   "Michigan": {
+      "Acres_Farmed": 5008821,
+      "Lat": 44.314844,
+      "Lon": -85.602364
+   },
+   "Minnesota": {
+      "Acres_Farmed": 17156026,
+      "Lat": 46.729553,
+      "Lon": -94.6859
+   },
+   "Mississippi": {
+      "Acres_Farmed": 3553786,
+      "Lat": 32.354668,
+      "Lon": -89.398528
+   },
+   "Missouri": {
+      "Acres_Farmed": 10399930,
+      "Lat": 32.354668,
+      "Lon": -89.398528
+   },
+   "Montana": {
+      "Acres_Farmed": 6429930,
+      "Lat": 46.879682,
+      "Lon": -110.362566
+   },
+   "Nebraska": {
+      "Acres_Farmed": 16600770,
+      "Lat": 46.879682,
+      "Lon": -110.362566
+   },
+   "Nevada": {
+      "Acres_Farmed": 24190,
+      "Lat": 46.879682,
+      "Lon": -110.362566
+   },
+   "New Hampshire": {
+      "Acres_Farmed": 12586,
+      "Lat": 46.879682,
+      "Lon": -110.362566
+   },
+   "New Jersey": {
+      "Acres_Farmed": 190981,
+      "Lat": 40.058324,
+      "Lon": -74.405661
+   },
+   "New Mexico": {
+      "Acres_Farmed": 773378,
+      "Lat": 34.97273,
+      "Lon": -105.032363
+   },
+   "New York": {
+      "Acres_Farmed": 1450971,
+      "Lat": 43.299428,
+      "Lon": -74.217933
+   },
+   "North Carolina": {
+      "Acres_Farmed": 3404015,
+      "Lat": 43.299428,
+      "Lon": -74.217933
+   },
+   "North Dakota": {
+      "Acres_Farmed": 15855697,
+      "Lat": 43.299428,
+      "Lon": -74.217933
+   },
+   "Ohio": {
+      "Acres_Farmed": 8812266,
+      "Lat": 40.417287,
+      "Lon": -82.907123
+   },
+   "Oklahoma": {
+      "Acres_Farmed": 7869982,
+      "Lat": 35.007752,
+      "Lon": -97.092877
+   },
+   "Oregon": {
+      "Acres_Farmed": 853666,
+      "Lat": 43.804133,
+      "Lon": -120.554201
+   },
+   "Pennsylvania": {
+      "Acres_Farmed": 1650117,
+      "Lat": 41.203322,
+      "Lon": -77.194525
+   },
+   "Puerto Rico": {
+      "Acres_Farmed": 6,
+      "Lat": 18.220833,
+      "Lon": -66.590149
+   },
+   "Rhode Island": {
+      "Acres_Farmed": 1708,
+      "Lat": 41.580095,
+      "Lon": -71.477429
+   },
+   "South Carolina": {
+      "Acres_Farmed": 1069162,
+      "Lat": 33.836081,
+      "Lon": -81.163725
+   },
+   "South Dakota": {
+      "Acres_Farmed": 12665131,
+      "Lat": 43.969515,
+      "Lon": -99.901813
+   },
+   "Tennessee": {
+      "Acres_Farmed": 3081436,
+      "Lat": 35.517491,
+      "Lon": -86.580447
+   },
+   "Texas": {
+      "Acres_Farmed": 18851229,
+      "Lat": 31.968599,
+      "Lon": -99.901813
+   },
+   "Utah": {
+      "Acres_Farmed": 194762,
+      "Lat": 39.32098,
+      "Lon": -111.093731
+   },
+   "Vermont": {
+      "Acres_Farmed": 92271,
+      "Lat": 39.32098,
+      "Lon": -111.093731
+   },
+   "Virgin Islands of the U.S.": {
+      "Acres_Farmed": 3,
+      "Lat": 39.32098,
+      "Lon": -111.093731
+   },
+   "Virginia": {
+      "Acres_Farmed": 1268865,
+      "Lat": 37.431573,
+      "Lon": -78.656894
+   },
+   "Washington": {
+      "Acres_Farmed": 2434531,
+      "Lat": 47.751074,
+      "Lon": -120.740139
+   },
+   "West Virginia": {
+      "Acres_Farmed": 75442,
+      "Lat": 38.597626,
+      "Lon": -80.454903
+   },
+   "Wisconsin": {
+      "Acres_Farmed": 6371965,
+      "Lat": 38.597626,
+      "Lon": -80.454903
+   },
+   "Wyoming": {
+      "Acres_Farmed": 320954,
+      "Lat": 43.075968,
+      "Lon": -107.290284
+   }
+}
