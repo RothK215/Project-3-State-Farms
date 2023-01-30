@@ -43,27 +43,31 @@
           <h5>Select State:</h5>
           <select id="selDataset" onchange="optionChanged(this.value)"></select>
         </div>
-        <div class="panel panel-primary">
+        <div class="panel-primary">
           <div class="panel-heading">
             <h3 class="panel-title">Overview of Crop in Selected State</h3>
           </div>
           <div id="sample-metadata" class="panel-body"></div>
         </div>
       </div>
-
       <div class="col-md-9">
         <div class="Title">
-        <h2>Planted Acres by Crop for the Selected Northeast State</h2>
-        <div class="col-md-9" style="border: 1px solid whitesmoke ">
-        <div id="pie"></div>
-      </div>
-      <br>
-      <div class="row">
-        <div class="col-md-12" style="border: 1px solid whitesmoke ">
-          <div id="map"></div>
+          <h2>Planted Acres by Crop for the Selected State</h2>
         </div>
+        <br>
+        <div id="pie"></div>
+      </div>    
+    </div>
+      <br>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="map"></div>
       </div>
+    </div>
   </div>
+<br>
+<br>
+<br>
 
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>

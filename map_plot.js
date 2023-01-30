@@ -1,10 +1,10 @@
-// A function to determine the marker size based on the acres
+// A function to determine the marker size based on the population
 function markerSize(data) {
-  return Math.sqrt(data) * 50;
+  return Math.sqrt(data) * 30;
 }
 
 
-// An array that contains all the information needed to create state markers
+// An array that contains all the information needed to create city and state markers
 var state = [
   {
   state_name: "Alabama",
@@ -671,17 +671,18 @@ var state = [
   }
 }];
 
-// Define arrays to hold the types of acres markers.
+// Define arrays to hold the created city and state markers.
 var plantedMarkers = [];
 var volunteerMarkers = [];
 var failedMarkers = [];
 var preventedMarkers= [];
 var not_plantedMarkers= [];
+var farm_countMarkers= [];
 
 
-// Loop through locations, and create the state markers.
+// Loop through locations, and create the city and state markers.
 for (var i = 0; i < state.length; i++) {
-  // Setting the marker radius for the state by passing acres into the markerSize function
+  // Setting the marker radius for the state by passing population into the markerSize function
   plantedMarkers.push(
     L.circle(state[i].coord, {
       stroke: false,
@@ -755,7 +756,7 @@ var topo = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
 });
 
 
-// Create 5 separate layer groups: one for the city markers and another for the state markers.
+// Create 6 separate layer groups: one for the city markers and another for the state markers.
 var planted = L.layerGroup(plantedMarkers);
 var volunteer = L.layerGroup(volunteerMarkers);
 var failed = L.layerGroup(failedMarkers);

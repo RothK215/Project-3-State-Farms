@@ -16,22 +16,24 @@ body {
 }
 
 #pie {
- 
-  position: relative;
+  position: absolute !important;
   border: 1px;
-  background-color:"#808080";
-  border-radius: 8px;
+  background: #008000;
+  background-position: center;
+  border-radius: 25px;
   height: 500px;
   /* or as desired */
-  width: 100%;
+  width: 97%;
   /* This means "100% of the width of its container", the .col-md-8 */
+  margin: 0px;
+  margin-top: -2px;
 }
 
 .Title {
   padding: 8px;
   text-align: center;
   background: #008000;
-  color: white;
+  color: rgb(255, 255, 255);
   font-size: 20px;
 }
 
