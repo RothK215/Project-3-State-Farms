@@ -1,3 +1,4 @@
+//State Array Objects Retrieval
 let Alabama = Object.values(data.Alabama);
 let Alaska = Object.values(data.Alaska);
 let Arizona = Object.values(data.Arizona);

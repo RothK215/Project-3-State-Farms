@@ -1,6 +1,6 @@
 // A function to determine the marker size based on the population
 function markerSize(data) {
-  return Math.sqrt(data) * 30;
+  return Math.sqrt(data) * 35;
 }
 
 
